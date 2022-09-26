@@ -2,23 +2,14 @@
     margin: 0;
     padding: 0;
 }
-.topnav { 
-    display: flex;
-    justify-content: space-between;
-}
+
 a{
     text-decoration: none;
     color: black;
 }
-.topnav{
-    background-color: skyblue;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    padding-left: 40rem;
-    padding-right: 2rem;
-}
+
 a:hover{
-    background-color: cadetblue;
+    background-color: rgb(100, 198, 202);
     color: white;
 }
 h1{
